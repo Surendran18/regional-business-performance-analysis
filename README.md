@@ -11,7 +11,7 @@ This project focuses on analyzing overall sales across different regions and eva
 - SQL
 - Microsoft Excel
 
-- ## Data Scope and Definitions
+ ## Data Scope and Definitions
 
 - **Date Range:** January 2024 to December 2025.
 - **Currency:** Indian Rupees (INR).
