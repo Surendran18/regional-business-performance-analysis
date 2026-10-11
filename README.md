@@ -11,6 +11,15 @@ This project focuses on analyzing overall sales across different regions and eva
 - SQL
 - Microsoft Excel
 
+- ## Data Scope and Definitions
+
+- **Date Range:** January 2024 to December 2025.
+- **Currency:** Indian Rupees (INR).
+- **Regions Covered:** North, South, East, West, Central, and Northeast.
+- **Realized Sales:** Gross item sales after deducting order-level discounts.
+- **Product and Category Analysis:** Order-level discounts are allocated proportionally based on gross sales to analyze realized sales by product and category.
+- **Regional Classification:** Regions represent the business regions recorded in the dataset, rather than necessarily indicating the geographical location of customers.
+
 ## Analysis
 
 The project covers the following areas of regional business analysis:
