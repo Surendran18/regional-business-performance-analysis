@@ -1,0 +1,142 @@
+Region West
+Overall Distinction
+
+The West region has generated overall sales of ₹15,232,822.63 through 150 orders, containing 862 units of products in total. These totals were generated across the statuses of cancelled, pending, returned, and completed. The overall discount amount across all orders is ₹545,541.36.
+
+The cancelled orders generated revenue of ₹1,322,548.71, which is 8.68% of the overall realized sales. A total of 14 orders were cancelled, containing 80 units of products.
+
+The pending orders generated revenue of ₹551,278.64, which is 3.62% of the overall realized sales. A total of 9 orders were pending, containing 49 units of products.
+
+The returned orders generated revenue of ₹68,282.48, which is 0.45% of the overall realized sales. A total of 2 orders were returned, containing 6 units of products.
+
+The completed orders generated revenue of ₹13,290,712.80, which is 87.25% of the overall realized sales. A total of 124 orders were completed, containing 727 units of products. The discount amount for the completed orders is ₹483,599.28.
+
+Completed Sales Trends
+
+In 2024, the completed realized sales were ₹6,121,119.84, which is 46.06% of the overall completed sales.
+
+In 2025, the completed realized sales were ₹7,169,592.96, which is 53.94% of the overall completed sales.
+
+In both years, the sales trend was fluctuating.
+
+Completed Sales Drivers
+
+This analysis has been taken under the criteria of completed sales, and the significant months have been taken into the analysis.
+
+The significant months are:
+
+February 2024
+October 2024
+January 2025
+April 2025
+
+This month generated revenue of ₹1,062,131.20, which is 7.99% of the completed sales. A total of 7 completed orders were made, containing 42 units of products.
+
+The significant categories in this month are:
+
+Category 1: Furniture
+
+Product	Product Realized Sales	Sales %	Units Sold
+Bedside Table	₹62,917.91	0.47%	3
+Study Table	₹100,918.45	0.76%	7
+Furniture Total	₹163,836.36	1.23%	10
+
+The category was made through 3 orders.
+
+Category 2: Laptops
+
+Product	Product Realized Sales	Sales %	Units Sold
+Performance Laptop	₹193,645.87	1.46%	2
+Ultrabook	₹526,836.13	3.96%	5
+Laptops Total	₹720,482.00	5.42%	7
+
+The category was made through 3 orders. In particular, Ultrabook generated 3.96% of the completed sales.
+
+October 2024
+
+This month generated revenue of ₹901,448.77, which is 6.78% of the completed sales. A total of 6 completed orders were made, containing 39 units of products.
+
+The significant categories in this month are:
+
+Category 1: Laptops
+
+Product	Product Realized Sales	Sales %	Units Sold
+Budget Laptop	₹475,737.70	3.58%	5
+Student Laptop	₹123,745.35	0.93%	1
+Laptops Total	₹599,483.05	4.51%	6
+
+The category was made through 3 orders. In particular, Budget Laptop generated 3.58% of the completed sales.
+
+Category 2: Smartphones
+
+Product	Product Realized Sales	Sales %	Units Sold
+Budget Smartphone	₹138,030.52	1.04%	2
+Smartphones Total	₹138,030.52	1.04%	2
+
+The category was made through 1 order.
+
+January 2025
+
+This month generated significant completed sales of ₹1,006,317.49, which is 7.57% of the completed sales. A total of 7 completed orders were made, containing 53 units of products.
+
+The significant categories in the month are:
+
+Category 1: Laptops
+
+Product	Product Realized Sales	Sales %	Units Sold
+Gaming Laptop	₹173,303.94	1.30%	3
+Ultrabook	₹210,099.00	1.58%	2
+Laptops Total	₹383,402.94	2.88%	5
+
+The category was made through 2 orders.
+
+Category 2: Smartphones
+
+Product	Product Realized Sales	Sales %	Units Sold
+Mid Range Smartphone	₹106,034.40	0.80%	4
+Premium Smartphone	₹178,441.77	1.34%	4
+Smartphones Total	₹284,476.17	2.14%	8
+
+The category was made through 3 orders.
+
+April 2025
+
+This month generated significant completed sales of ₹1,153,457.98, which is 8.68% of the completed sales. A total of 7 completed orders were made, containing 45 units of products.
+
+The significant categories in this month are:
+
+Category 1: Fitness Equipment
+
+Product	Product Realized Sales	Sales %	Units Sold
+Fitness Cycle	₹181,861.54	1.37%	4
+Resistance Bands	₹31,576.98	0.24%	3
+Fitness Equipment Total	₹213,438.52	1.61%	7
+
+The category was made through 2 orders. Fitness Cycle generated more sales in this category.
+
+Category 2: Laptops
+
+Product	Product Realized Sales	Sales %	Units Sold
+Budget Laptop	₹286,860.94	2.16%	3
+Laptops Total	₹286,860.94	2.16%	3
+
+The category was made through 1 order.
+
+Category 3: Smartphones
+
+Product	Product Realized Sales	Sales %	Units Sold
+Compact Smartphone	₹212,079.36	1.60%	3
+Gaming Smartphone	₹285,516.43	2.15%	5
+Smartphones Total	₹497,595.79	3.74%	8
+
+The category was made through 3 orders. Gaming Smartphone generated more sales in this category.
+
+Findings
+
+This analysis has been taken under the criteria of completed order sales and significant months.
+
+The significant categories contributed a major part of the completed sales in the analyzed months, while the contributions from other categories in the remaining months were more shared and less significant.
+
+The common category in this region is Laptop, which has generated more revenue comparatively.
+
+The West region ranks third in overall realized sales and completed sales compared with the other regions. It ranks second in Average Order Value and second in Average Items per Order, showing that the region has a relatively high value per order and a relatively high number of products per order. However, it ranks fourth in customer total and total units sold and fifth in completed orders. Therefore, the lower completed-order volume limited the overall sales performance, even though the region had a higher value per order and higher average items per order.

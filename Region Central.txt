@@ -1,0 +1,94 @@
+Region Central
+Overall Distinction
+
+The Central region has generated ₹13,798,867.73 in overall sales through 157 orders in total, containing 888 units of products across the statuses of completed, cancelled, pending, and returned. The overall discount amount across all orders is ₹400,322.25.
+
+Cancelled orders generated revenue of ₹762,064.48, which is 5.52% of the overall realized sales. A total of 12 orders were cancelled, containing 57 units of products.
+
+Pending orders generated revenue of ₹780,069.03, which is 5.65% of the overall realized sales. A total of 12 orders were pending, containing 71 units of products.
+
+Returned orders generated revenue of ₹824,858.38, which is 5.98% of the overall realized sales. A total of 8 orders were returned, containing 44 units of products.
+
+Completed orders generated revenue of ₹11,431,875.84, which is 82.85% of the overall realized sales. A total of 125 orders were completed, containing 716 units of products. The discount amount for the completed orders is ₹315,923.09.
+
+Trends
+
+The sales were fluctuating across the years, with 2024 generating ₹5,256,269.46, which is 45.98%, and 2025 generating ₹6,175,606.38, which is 54.02% of the completed sales.
+
+Completed Sales Drivers
+
+Note: This analysis has been taken under the criteria of completed orders, significant months, and significant categories within the months.
+
+The significant months in the Central region are:
+
+August 2024
+June 2025
+November 2025
+
+This month generated ₹1,064,609.27, which is 9.31% of the completed sales, through 7 completed orders.
+
+The significant category that contributed in this month is:
+
+Category 1: Laptops
+
+Product	Product Realized Sales	Sales %	Units Sold
+Performance Laptop	₹712,263.22	6.23%	7
+Laptops Total	₹712,263.22	6.23%	7
+
+The category was made through 2 orders.
+
+June 2025
+
+This month generated ₹977,509.36, which is 8.55% of the completed sales, through 5 completed orders.
+
+The significant categories that contributed in this month are:
+
+Category 1: Kitchen Appliances
+
+Product	Product Realized Sales	Sales %	Units Sold
+Microwave Oven	₹129,594.81	1.13%	5
+Kitchen Appliances Total	₹129,594.81	1.13%	5
+
+The category was made through 1 order.
+
+Category 2: Laptops
+
+Product	Product Realized Sales	Sales %	Units Sold
+Student Laptop	₹666,317.70	5.83%	5
+Laptops Total	₹666,317.70	5.83%	5
+
+The category was made through 1 order.
+
+November 2025
+
+This month generated ₹941,464.09, which is 8.24% of the completed sales, through 8 completed orders.
+
+The significant categories that contributed in this month are:
+
+Category 1: Fitness Equipment
+
+Product	Product Realized Sales	Sales %	Units Sold
+Exercise Bench	₹146,953.80	1.29%	4
+Resistance Bands	₹20,987.91	0.18%	2
+Treadmill	₹134,671.56	1.18%	4
+Yoga Mat	₹55,855.48	0.49%	1
+Fitness Equipment Total	₹358,468.75	3.14%	11
+
+The category was made through 3 orders.
+
+Category 2: Laptops
+
+Product	Product Realized Sales	Sales %	Units Sold
+Business Laptop	₹158,560.87	1.39%	3
+Performance Laptop	₹197,888.40	1.73%	2
+Laptops Total	₹356,449.27	3.12%	5
+
+The category was made through 2 orders.
+
+Findings
+
+The analysis has been taken under the criteria of completed order sales, significant months, and significant categories within the months. The other categories have shared the sales contribution.
+
+The common category that generated the most sales in the significant months was the Laptop category.
+
+The Central region ranks fourth in overall realized sales compared with the other regions. It also ranks fourth in completed orders and Average Order Value, while ranking fifth in customer total and completed units sold. The region ranks third in Average Items per Order. These factors contributed to the Central region's position in realized and completed sales.

@@ -1,0 +1,108 @@
+Region East
+Overall Distinction
+
+The East region has overall realized sales of ₹12,442,749.83 through 161 orders, containing 937 units across the statuses of cancelled, pending, returned, and completed. The overall discount amount across all orders is ₹336,659.52.
+
+The cancelled orders generated revenue of ₹524,563.49, which is 4.22% of the overall realized sales. A total of 10 orders were cancelled, containing 65 units of products.
+
+The pending orders generated revenue of ₹484,099.16, which is 3.89% of the overall realized sales. A total of 10 orders were pending, containing 44 units of products.
+
+The returned orders generated revenue of ₹543,708.79, which is 4.37% of the overall realized sales. A total of 8 orders were returned, containing 45 units of products.
+
+The completed orders generated revenue of ₹10,890,378.39, which is 87.52% of the overall realized sales. A total of 133 orders were completed, containing 783 units of products. The discount amount for the completed orders is ₹305,742.18.
+
+Completed Sales Drivers
+
+Note: This analysis has been made on the basis of the completed orders only, and the months with significant percentages have been taken for the analysis.
+
+The significant months are:
+
+February 2024
+October 2024
+May 2025
+November 2025
+
+This month generated total revenue of ₹738,311.75, which is 6.78% of the overall completed sales, through 5 completed orders.
+
+The category that contributed significant sales in this month was:
+
+Category 1: Laptops
+
+Product	Product Realized Sales	Sales %	Units Sold
+Creator Laptop	₹396,970.90	3.65%	5
+Performance Laptop	₹104,923.87	0.96%	1
+Laptops Total	₹501,894.77	4.61%	6
+
+The category was made through 2 orders. Creator Laptop contributed more significantly within the category.
+
+October 2024
+
+This month generated revenue of ₹905,912.32, which is 8.32% of the overall completed sales, through 7 completed orders.
+
+The categories that contributed significant sales in this month were:
+
+Category 1: Laptops
+
+Product	Product Realized Sales	Sales %	Units Sold
+Ultrabook	₹521,041.70	4.78%	5
+Laptops Total	₹521,041.70	4.78%	5
+
+The category was made through 1 order.
+
+Category 2: Smartphones
+
+Product	Product Realized Sales	Sales %	Units Sold
+Budget Smartphone	₹66,638.33	0.61%	1
+Compact Smartphone	₹68,678.16	0.63%	1
+Smartphones Total	₹135,316.49	1.24%	2
+
+The category was made through 2 orders.
+
+May 2025
+
+This month generated revenue of ₹777,017.08, which is 7.13% of the overall completed sales, through 8 completed orders.
+
+The category that contributed significant sales in this month was:
+
+Category 1: Laptops
+
+Product	Product Realized Sales	Sales %	Units Sold
+Budget Laptop	₹289,066.92	2.65%	3
+Performance Laptop	₹289,594.67	2.66%	3
+Laptops Total	₹578,661.59	5.31%	6
+
+The category was made through 2 orders.
+
+November 2025
+
+This month generated revenue of ₹735,678.33, which is 6.76% of the overall completed sales, through 4 completed orders.
+
+The categories that contributed significant sales in this month were:
+
+Category 1: Kitchen Appliances
+
+Product	Product Realized Sales	Sales %	Units Sold
+Microwave Oven	₹101,096.08	0.93%	4
+Toaster	₹81,218.88	0.75%	3
+Kitchen Appliances Total	₹182,314.96	1.67%	7
+
+The category was made through 2 orders.
+
+Category 2: Laptops
+
+Product	Product Realized Sales	Sales %	Units Sold
+Business Laptop	₹232,956.40	2.14%	4
+Laptops Total	₹232,956.40	2.14%	4
+
+The category was made through 1 order.
+
+Findings
+
+This analysis has been made under the criteria of significant sales and completed orders.
+
+In the significant months analyzed, Laptop was a common contributing category, with strong contributions from products such as Creator Laptop, Ultrabook, Budget Laptop, Performance Laptop, and Business Laptop. In November 2025, Kitchen Appliances also became a significant contributing category.
+
+The East region ranks third compared with the other regions in completed orders, customer total, and total units sold. However, it ranks fifth in both overall realized sales and completed sales and has the sixth-highest Average Order Value.
+
+East has the highest Average Items per Order compared with the other regions, which means the region sold the highest average number of products in each order. However, this higher average number of items per order did not result in higher revenue, as East had the lowest Average Order Value. Therefore, the sales performance of East was not supported by a high value per order, despite having the highest average number of products sold per order.
+

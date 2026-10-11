@@ -1,0 +1,89 @@
+Region Northeast
+Overall Distinction
+
+The Northeast region has generated overall sales of ₹8,173,596.90 through 96 orders, containing 512 units of products across all statuses: completed, cancelled, pending, and returned. The overall discount amount across all orders is ₹376,720.09.
+
+Cancelled orders generated revenue of ₹877,786.34, which is 10.74% of the overall realized sales, through 8 orders containing 64 units of products.
+
+Pending orders generated revenue of ₹591,622.06, which is 7.24% of the overall realized sales, through 6 orders containing 33 units of products.
+
+Returned orders generated revenue of ₹218,936.78, which is 2.68% of the overall realized sales, through 8 orders containing 31 units of products.
+
+Completed orders generated revenue of ₹6,485,251.72, which is 79.34% of the overall realized sales, through 74 orders containing 384 units of products. The discount amount for the completed orders is ₹257,038.50.
+
+Trends
+
+The sales are fluctuating throughout the years 2024 and 2025.
+
+In 2024, the region generated ₹3,047,971.76, which is 47.00% of the completed sales, through 41 completed orders.
+
+In 2025, the region generated ₹3,437,279.96, which is 53.00% of the completed sales, through 33 completed orders.
+
+Completed Sales Drivers
+
+Note: This analysis has been taken under the criteria of significant months and the significant categories that contributed to the completed-order sales.
+
+The significant months are:
+
+January 2024
+September 2025
+
+This month generated sales of ₹537,178.38, which is 8.28% of the completed sales, through 3 completed orders containing 17 units.
+
+The significant categories in this month are:
+
+Category 1: Fitness Equipment
+
+Product	Product Realized Sales	Sales %	Units Sold
+Fitness Cycle	₹140,898.53	2.17%	3
+Fitness Equipment Total	₹140,898.53	2.17%	3
+
+The category was made through 1 order.
+
+Category 2: Smartphones
+
+Product	Product Realized Sales	Sales %	Units Sold
+5G Smartphone	₹133,023.84	2.05%	3
+Compact Smartphone	₹199,221.39	3.07%	3
+Smartphones Total	₹332,245.23	5.12%	6
+
+The category was made through 2 orders.
+
+September 2025
+
+This month generated revenue of ₹858,170.43, which is 13.23% of the completed sales, through 5 completed orders containing 19 units.
+
+The significant categories that contributed in the month are:
+
+Category 1: Fitness Equipment
+
+Product	Product Realized Sales	Sales %	Units Sold
+Yoga Mat	₹112,420.66	1.73%	2
+Fitness Equipment Total	₹112,420.66	1.73%	2
+
+The category was made through 1 order.
+
+Category 2: Laptops
+
+Product	Product Realized Sales	Sales %	Units Sold
+Performance Laptop	₹105,384.11	1.62%	1
+Ultrabook	₹518,287.90	7.99%	5
+Laptops Total	₹623,672.01	9.62%	6
+
+The category was made through 1 order. The significant product in this category is Ultrabook.
+
+Category 3: Smartphones
+
+Product	Product Realized Sales	Sales %	Units Sold
+Budget Smartphone	₹67,238.61	1.04%	1
+Smartphones Total	₹67,238.61	1.04%	1
+
+The category was made through 1 order.
+
+Findings
+
+This analysis has been taken under the criteria of completed orders, significant months, and significant categories within the months.
+
+The product that generated the highest sales contribution in this region was Ultrabook under the Laptop category, which made a significant contribution to the completed sales.
+
+The Northeast region ranks last compared with the other regions in most of the major performance metrics, including overall realized sales, completed sales, completed orders, customer total, and completed units sold. It ranks fifth in Average Order Value. This lower position across the major metrics affected the region's ability to achieve a higher sales position compared with the other regions.

@@ -1,0 +1,14 @@
+Conclusion
+
+Comparing the eight metrics of realized sales, completed orders, Average Order Value, customer count, total units sold, Average Items per Order, total discount amount, and total shipping cost, the South region holds the first position compared with the other regions, except for Average Order Value, where the North region holds the first position, and Average Items per Order, where the East region holds the first position.
+
+The South region generated the highest sales, with the Laptop category contributing significantly to its completed sales based on the completed sales driver analysis.
+
+Recommendations
+
+1. The Laptop category is the common category which has contributed significantly to the completed sales in most of the regions, so the business can continue to focus on the Laptop category and identify the products which are generating more sales in each region.
+2. The South region has the highest sales, customers, completed orders, and total units sold, so the business can use the South region as a reference to understand the sales and customer patterns that can be improved in the other regions.
+3. Some regions have higher Average Items per Order but lower Average Order Value, so the business can review the product mix in those regions and identify opportunities to increase the value generated from each order.
+4. Some regions have higher Average Order Value but lower completed order volume, so the business can focus on increasing the number of completed orders and customers while maintaining the existing order value.
+5. The analysis shows differences in cancelled, pending, and returned orders across the regions, but the reasons for these statuses are not available in the current dataset. Therefore, the business can collect the reason for cancellation, pending, and return orders and analyze them separately to identify the actual factors affecting non-completed orders.
+6. The discount amount differs across the regions, so the business can compare the discount provided with the completed sales performance to understand whether the higher discounts are supporting sales and whether they are being used effectively.
