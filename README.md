@@ -72,8 +72,7 @@ I then used Excel features to calculate and compare regional performance metrics
 - Window functions
 - Date-based analysis
 - Percentage calculations
-- Ranking and top-performing analysis
-
+- Identifying top-performing products and categories
 ## Excel Concepts Used
 
 - Power Query for data preparation and transformation
