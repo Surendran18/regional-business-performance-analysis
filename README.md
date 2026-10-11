@@ -39,10 +39,16 @@ I then used Excel features to calculate and compare regional performance metrics
 ## Project Files
 
 - `02_01_database_setup.sql` - Database and table creation with sample data.
-- `02_02_analysis_queries.sql` - SQL queries used for data exploration and regional business analysis.
+- `02_02_analysis_queries.sql` - Contains 25 SQL queries used for data exploration and regional business analysis.
 - `Regional_Business_Performance_Analysis.xlsm` - Excel workbook containing the final analytical dataset, regional analysis, and VBA automation.
-- `README.MD` - Project overview, tools, analysis areas, and concepts used.
-
+- `Conclusion & Recommendations.txt` - Contains the overall conclusions and recommendations based on the analysis.
+- `Region Central.txt` - Contains the detailed analysis of the Central region.
+- `Region East.txt` - Contains the detailed analysis of the East region.
+- `Region North.txt` - Contains the detailed analysis of the North region.
+- `Region Northeast.txt` - Contains the detailed analysis of the Northeast region.
+- `Region South.txt` - Contains the detailed analysis of the South region.
+- `Region West.txt` - Contains the detailed analysis of the West region.
+- `README.md` - Provides the project overview, tools used, analysis areas, key insights, and concepts applied.
 ## Key Insights
 
 - The South region performed better than the other regions across most of the major business metrics.
